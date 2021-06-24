@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Jorge Ramírez",
+        "age": "26",
+        "rfc": "OLAS03923KFS",
+        "phone": "8492389423",
+        "email": "jorge.rz@empreza.com"
+    },
+    {
+        "id": "2",
+        "name": "Grabriela Tórrez",
+        "age": "27",
+        "rfc": "SLDK39452LKS",
+        "phone": "8492312352",
+        "email": "torrez.gaby@empreza.com"
+    },
+    {
+        "id": "3",
+        "name": "Ana López",
+        "age": "24",
+        "rfc": "LASD29434LMC",
+        "phone": "849123467",
+        "email": "anitalahuerfanita@empreza.com"
+    },
+    {
+        "id": "4",
+        "name": "Miguel Ruíz",
+        "age": "25",
+        "rfc": "MSDJ02392MJS",
+        "phone": "849730582",
+        "email": "m.ruiz@empreza.com"
+    },
+    {
+        "id": "5",
+        "name": "Antonio Figueroa",
+        "age": "28",
+        "rfc": "ASDD38294KSL",
+        "phone": "849077934",
+        "email": "antonio_figueroa3@empreza.com"
+    }
+]

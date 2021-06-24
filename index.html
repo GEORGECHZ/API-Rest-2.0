@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Buscar Trabajadores</h1>
+        <form action="http://localhost:3000/api/workers" method="get" target="_blank">
+        <input type="submit" value="Todos los Trabajadores"/>
+        </form>
+    </body>
+    <body>
+        <h1>Aquí agregas un nuevo trabajador</h1>
+        <form action="http://localhost:3000/api/workers" method="post" target="_blank">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="age">Age:</label>
+        <input type="text" id="age" name="age"><br><br>
+        <label for="rfc">rfc:</label>
+        <input type="text" id="rfc" name="rfc"><br><br>
+        <label for="phone">phone:</label>
+        <input type="text" id="phone" name="phone"><br><br>
+        <label for="email">email:</label>
+        <input type="text" id="email" name="email"><br><br>
+        <input type="submit" value="Agregrar">
+         </form>
+        <p>Click para agregar un trabajador</p>
+    </body>
+</html>
